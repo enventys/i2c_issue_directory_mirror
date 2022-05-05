@@ -1,0 +1,13 @@
+sys_app.c:315:13:tiny_snprintf_like.constprop	16	static
+sys_app.c:240:13:TimestampNow	32	static
+sys_app.c:98:6:SystemApp_Init	8	static
+sys_app.c:152:6:UTIL_SEQ_Idle	8	static
+sys_app.c:163:9:GetBatteryLevel	16	static
+sys_app.c:197:10:GetTemperatureLevel	8	static
+sys_app.c:208:6:GetUniqueId	16	static
+sys_app.c:230:10:GetDevAddr	8	static
+sys_app.c:293:6:UTIL_ADV_TRACE_PreSendHook	8	static
+sys_app.c:304:6:UTIL_ADV_TRACE_PostSendHook	8	static
+sys_app.c:340:19:HAL_InitTick	0	static
+sys_app.c:357:10:HAL_GetTick	8	static
+sys_app.c:373:6:HAL_Delay	16	static

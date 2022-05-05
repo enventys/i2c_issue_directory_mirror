@@ -1,0 +1,5 @@
+adc_if.c:167:17:ADC_ReadChannels	24	static
+adc_if.c:98:6:SYS_InitMeasurement	0	static
+adc_if.c:109:6:SYS_DeInitMeasurement	0	static
+adc_if.c:137:10:SYS_GetBatteryLevel	8	static
+adc_if.c:116:9:SYS_GetTemperatureLevel	24	static

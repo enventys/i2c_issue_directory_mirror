@@ -1,0 +1,17 @@
+b_l072z_lrwan1_bus.c:116:9:BSP_SPI2_DeInit	8	static
+b_l072z_lrwan1_bus.c:138:9:BSP_SPI2_Send	8	static
+b_l072z_lrwan1_bus.c:155:10:BSP_SPI2_Recv	8	static
+b_l072z_lrwan1_bus.c:172:9:BSP_SPI2_SendRecv	16	static
+b_l072z_lrwan1_bus.c:241:9:BSP_GetTick	8	static
+b_l072z_lrwan1_bus.c:248:26:MX_SPI2_Init	16	static
+b_l072z_lrwan1_bus.c:81:9:BSP_SPI2_Init	40	static
+b_l072z_lrwan1_bus.c:476:9:BSP_I2C1_DeInit	8	static
+b_l072z_lrwan1_bus.c:504:9:BSP_I2C1_IsReady	8	static
+b_l072z_lrwan1_bus.c:525:9:BSP_I2C1_WriteReg	32	static
+b_l072z_lrwan1_bus.c:551:10:BSP_I2C1_ReadReg	32	static
+b_l072z_lrwan1_bus.c:579:9:BSP_I2C1_WriteReg16	32	static
+b_l072z_lrwan1_bus.c:604:10:BSP_I2C1_ReadReg16	32	static
+b_l072z_lrwan1_bus.c:629:9:BSP_I2C1_Send	16	static
+b_l072z_lrwan1_bus.c:655:9:BSP_I2C1_Recv	16	static
+b_l072z_lrwan1_bus.c:729:26:MX_I2C1_Init	24	static
+b_l072z_lrwan1_bus.c:428:9:BSP_I2C1_Init	48	static
